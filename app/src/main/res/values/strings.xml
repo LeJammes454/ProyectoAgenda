@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProyectoFinalAgenda</string>
+    <string name="Home">Home</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="about">Acerca de</string>
+    <string name="search">Buscar</string>
+</resources>
